@@ -1,0 +1,8 @@
+phidata
+streamlit
+google-generativeai
+duckdb
+pandas
+numpy
+agno
+openpyxl
